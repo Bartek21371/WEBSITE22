@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/bannner.jpg);
+    background-size: absolute;
+}
+#menu
+{
+	display: block;
+	list-style: right;
+	margin: 11mm;
+	padding-right: 10px;
+    float: right;
+}
+ul li
+{
+	display: inline;
+	white-space: nowrap;
+}
+#menu a
+{
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(58, 0, 92);
+}
+#menu a:hover {
+    color:azure;
+}
+#logo img
+{
+    padding: 2mm;
+    margin: 4mm;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0,0,0,0);
+}
+#od 
+{
+    width: 1364px;
+    margin: -2px;
+}
+#sub 
+{
+    padding: 2px;
+    margin: 18px;
+    font-size: 5mm;
+    text-align: center;
+    text-decoration: none;
+}
+#tp-widget-default
+{
+    left: 525px;
+}
+#sig
+{
+    text-align: center;
+    margin: 20px;
+}
